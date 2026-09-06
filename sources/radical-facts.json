@@ -1,0 +1,1500 @@
+[
+  {
+    "id": 1,
+    "glyph": "一",
+    "kDefinition": "one; a, an; alone",
+    "kMandarin": "yī",
+    "kTotalStrokes": "1"
+  },
+  {
+    "id": 2,
+    "glyph": "丨",
+    "kDefinition": "(same as 〡 HANGZHOU NUMERAL ONE) number one; line",
+    "kMandarin": "gǔn",
+    "kTotalStrokes": "1"
+  },
+  {
+    "id": 3,
+    "glyph": "丶",
+    "kDefinition": "dot; Kangxi radical 3",
+    "kMandarin": "zhǔ",
+    "kTotalStrokes": "1"
+  },
+  {
+    "id": 4,
+    "glyph": "丿",
+    "kDefinition": "line; Kangxi radical 4",
+    "kMandarin": "piě",
+    "kTotalStrokes": "1"
+  },
+  {
+    "id": 5,
+    "glyph": "乙",
+    "kDefinition": "second; 2nd heavenly stem",
+    "kMandarin": "yǐ",
+    "kTotalStrokes": "1"
+  },
+  {
+    "id": 6,
+    "glyph": "亅",
+    "kDefinition": "hook; Kangxi radical 6",
+    "kMandarin": "jué",
+    "kTotalStrokes": "1"
+  },
+  {
+    "id": 7,
+    "glyph": "二",
+    "kDefinition": "two; twice",
+    "kMandarin": "èr",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 8,
+    "glyph": "亠",
+    "kDefinition": "head; Kangxi radical 8",
+    "kMandarin": "tóu",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 9,
+    "glyph": "人",
+    "kDefinition": "man; people; mankind; someone else",
+    "kMandarin": "rén",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 10,
+    "glyph": "儿",
+    "kDefinition": "son, child; Kangxi radical 10",
+    "kMandarin": "ér",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 11,
+    "glyph": "入",
+    "kDefinition": "enter, come in(to), join",
+    "kMandarin": "rù",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 12,
+    "glyph": "八",
+    "kDefinition": "eight; all around, all sides",
+    "kMandarin": "bā",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 13,
+    "glyph": "冂",
+    "kDefinition": "wide; Kangxi radical 13",
+    "kMandarin": "jiōng",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 14,
+    "glyph": "冖",
+    "kDefinition": "cover; Kangxi radical 14",
+    "kMandarin": "mì",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 15,
+    "glyph": "冫",
+    "kDefinition": "ice; Kangxi radical 15",
+    "kMandarin": "bīng",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 16,
+    "glyph": "几",
+    "kDefinition": "small table",
+    "kMandarin": "jǐ",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 17,
+    "glyph": "凵",
+    "kDefinition": "receptacle; Kangxi radical 17",
+    "kMandarin": "qiǎn",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 18,
+    "glyph": "刀",
+    "kDefinition": "knife; old coin; measure",
+    "kMandarin": "dāo",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 19,
+    "glyph": "力",
+    "kDefinition": "power, capability, influence; Kangxi radical 19",
+    "kMandarin": "lì",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 20,
+    "glyph": "勹",
+    "kDefinition": "wrap; Kangxi radical 20",
+    "kMandarin": "bāo",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 21,
+    "glyph": "匕",
+    "kDefinition": "spoon, ladle; knife, dirk",
+    "kMandarin": "bǐ",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 22,
+    "glyph": "匚",
+    "kDefinition": "box; Kangxi radical 22",
+    "kMandarin": "fāng",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 23,
+    "glyph": "匸",
+    "kDefinition": "box; Kangxi radical 23",
+    "kMandarin": "xì",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 24,
+    "glyph": "十",
+    "kDefinition": "ten, tenth; complete; perfect",
+    "kMandarin": "shí",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 25,
+    "glyph": "卜",
+    "kDefinition": "fortune telling; prophesy",
+    "kMandarin": "bo bǔ",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 26,
+    "glyph": "卩",
+    "kDefinition": "seal; Kangxi radical 26",
+    "kMandarin": "jié",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 27,
+    "glyph": "厂",
+    "kDefinition": "factory, workshop; radical 27",
+    "kMandarin": "chǎng",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 28,
+    "glyph": "厶",
+    "kDefinition": "private, secret; Kangxi radical 28",
+    "kMandarin": "sī",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 29,
+    "glyph": "又",
+    "kDefinition": "and, also, again, in addition",
+    "kMandarin": "yòu",
+    "kTotalStrokes": "2"
+  },
+  {
+    "id": 30,
+    "glyph": "口",
+    "kDefinition": "mouth; open end; entrance, gate",
+    "kMandarin": "kǒu",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 31,
+    "glyph": "囗",
+    "kDefinition": "erect, proud; upright; bald",
+    "kMandarin": "wéi",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 32,
+    "glyph": "土",
+    "kDefinition": "soil, earth; items made of earth",
+    "kMandarin": "tǔ",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 33,
+    "glyph": "士",
+    "kDefinition": "scholar, gentleman; soldier",
+    "kMandarin": "shì",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 34,
+    "glyph": "夂",
+    "kDefinition": "go; Kangxi radical 34",
+    "kMandarin": "zhǐ",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 35,
+    "glyph": "夊",
+    "kDefinition": "Kangxi radical 35; go slowly",
+    "kMandarin": "suī",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 36,
+    "glyph": "夕",
+    "kDefinition": "evening, night, dusk; slanted",
+    "kMandarin": "xī",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 37,
+    "glyph": "大",
+    "kDefinition": "big, great, vast, large, high",
+    "kMandarin": "dà",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 38,
+    "glyph": "女",
+    "kDefinition": "woman, girl; feminine; Kangxi radical 38; 10th lunar mansion, determinative star ε Aquarii (Albali)",
+    "kMandarin": "nǚ",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 39,
+    "glyph": "子",
+    "kDefinition": "offspring, child; fruit, seed of; first earthly branch",
+    "kMandarin": "zǐ",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 40,
+    "glyph": "宀",
+    "kDefinition": "roof; Kangxi radical 40",
+    "kMandarin": "mián",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 41,
+    "glyph": "寸",
+    "kDefinition": "inch; small, tiny; Kangxi radical 41",
+    "kMandarin": "cùn",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 42,
+    "glyph": "小",
+    "kDefinition": "small, tiny, insignificant",
+    "kMandarin": "xiǎo",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 43,
+    "glyph": "尢",
+    "kDefinition": "weak; Kangxi radical 43",
+    "kMandarin": "wāng",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 44,
+    "glyph": "尸",
+    "kDefinition": "corpse; to impersonate the dead; to preside; Kangxi radical 44",
+    "kMandarin": "shī",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 45,
+    "glyph": "屮",
+    "kDefinition": "sprout; Kangxi radical 45",
+    "kMandarin": "chè",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 46,
+    "glyph": "山",
+    "kDefinition": "mountain, hill, peak",
+    "kMandarin": "shān",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 47,
+    "glyph": "巛",
+    "kDefinition": "river; Kangxi radical 47",
+    "kMandarin": "chuān",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 48,
+    "glyph": "工",
+    "kDefinition": "labor, work; worker, laborer",
+    "kMandarin": "gōng",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 49,
+    "glyph": "己",
+    "kDefinition": "self, oneself; personal, private; 6th heavenly stem",
+    "kMandarin": "jǐ",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 50,
+    "glyph": "巾",
+    "kDefinition": "kerchief; towel; turban; Kangxi radical 50",
+    "kMandarin": "jīn",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 51,
+    "glyph": "干",
+    "kDefinition": "oppose, offend; invade; dried",
+    "kMandarin": "gàn",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 52,
+    "glyph": "幺",
+    "kDefinition": "one; tiny, small",
+    "kMandarin": "yāo",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 53,
+    "glyph": "广",
+    "kDefinition": "wide, extensive, broad; rad. 53",
+    "kMandarin": "guǎng",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 54,
+    "glyph": "廴",
+    "kDefinition": "go; Kangxi radical 54",
+    "kMandarin": "yǐn",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 55,
+    "glyph": "廾",
+    "kDefinition": "two hands; Kangxi radical 55",
+    "kMandarin": "gǒng",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 56,
+    "glyph": "弋",
+    "kDefinition": "catch, arrest; shoot with bow",
+    "kMandarin": "yì",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 57,
+    "glyph": "弓",
+    "kDefinition": "bow; curved, arched; Kangxi radical 57",
+    "kMandarin": "gōng",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 58,
+    "glyph": "彐",
+    "kDefinition": "snout; Kangxi radical 58",
+    "kMandarin": "jì",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 59,
+    "glyph": "彡",
+    "kDefinition": "hair; Kangxi radical 59",
+    "kMandarin": "shān",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 60,
+    "glyph": "彳",
+    "kDefinition": "step with left foot; rad. no 60",
+    "kMandarin": "chì",
+    "kTotalStrokes": "3"
+  },
+  {
+    "id": 61,
+    "glyph": "心",
+    "kDefinition": "heart; mind, intelligence; soul; 5th lunar mansion, determinative star α Scorpii (Antares)",
+    "kMandarin": "xīn",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 62,
+    "glyph": "戈",
+    "kDefinition": "halberd, spear, lance; rad. 62",
+    "kMandarin": "gē",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 63,
+    "glyph": "戶",
+    "kDefinition": "door; family, household",
+    "kMandarin": "hù",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 64,
+    "glyph": "手",
+    "kDefinition": "hand",
+    "kMandarin": "shǒu",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 65,
+    "glyph": "支",
+    "kDefinition": "disperse, pay; support; branch",
+    "kMandarin": "zhī",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 66,
+    "glyph": "攴",
+    "kDefinition": "rap, tap lightly; Kangxi radical 66",
+    "kMandarin": "pū",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 67,
+    "glyph": "文",
+    "kDefinition": "literature, culture, writing",
+    "kMandarin": "wén",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 68,
+    "glyph": "斗",
+    "kDefinition": "a dipper; unit of volume (ten 升 or litres); Kangxi radical 68; 8th lunar mansion, determinative star φ Sagittarii",
+    "kMandarin": "dòu dǒu",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 69,
+    "glyph": "斤",
+    "kDefinition": "a catty (approximately 600 g); an axe; keen, shrewd; Kangxi radical 69",
+    "kMandarin": "jīn",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 70,
+    "glyph": "方",
+    "kDefinition": "a square, rectangle; a region; local",
+    "kMandarin": "fāng",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 71,
+    "glyph": "无",
+    "kDefinition": "negative, no, not; Kangxi radical 71",
+    "kMandarin": "wú",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 72,
+    "glyph": "日",
+    "kDefinition": "sun; day; daytime",
+    "kMandarin": "rì",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 73,
+    "glyph": "曰",
+    "kDefinition": "say; Kangxi radical 73",
+    "kMandarin": "yuē",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 74,
+    "glyph": "月",
+    "kDefinition": "moon; month; Kangxi radical 74",
+    "kMandarin": "yuè",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 75,
+    "glyph": "木",
+    "kDefinition": "tree; wood, lumber; wooden",
+    "kMandarin": "mù",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 76,
+    "glyph": "欠",
+    "kDefinition": "owe, lack, be deficient; Kangxi radical 76",
+    "kMandarin": "qiàn",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 77,
+    "glyph": "止",
+    "kDefinition": "stop, halt, desist; detain",
+    "kMandarin": "zhǐ",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 78,
+    "glyph": "歹",
+    "kDefinition": "bad, vicious, depraved, wicked",
+    "kMandarin": "dǎi",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 79,
+    "glyph": "殳",
+    "kDefinition": "name of old weapon; kill; rad. 79",
+    "kMandarin": "shū",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 80,
+    "glyph": "毋",
+    "kDefinition": "do not; not; surname; rad. 80",
+    "kMandarin": "wú",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 81,
+    "glyph": "比",
+    "kDefinition": "to compare, liken; comparison; than; hexagram ䷇",
+    "kMandarin": "bǐ",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 82,
+    "glyph": "毛",
+    "kDefinition": "hair, fur, feathers; coarse",
+    "kMandarin": "máo",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 83,
+    "glyph": "氏",
+    "kDefinition": "clan, family; mister",
+    "kMandarin": "shì",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 84,
+    "glyph": "气",
+    "kDefinition": "steam, vapor; Kangxi radical 84",
+    "kMandarin": "qì",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 85,
+    "glyph": "水",
+    "kDefinition": "water, liquid, lotion, juice",
+    "kMandarin": "shuǐ",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 86,
+    "glyph": "火",
+    "kDefinition": "fire, flame; burn; anger, rage",
+    "kMandarin": "huǒ",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 87,
+    "glyph": "爪",
+    "kDefinition": "claw, nail, talon; animal feet",
+    "kMandarin": "zhǎo",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 88,
+    "glyph": "父",
+    "kDefinition": "father; Kangxi radical 88",
+    "kMandarin": "fù",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 89,
+    "glyph": "爻",
+    "kDefinition": "diagrams for divination",
+    "kMandarin": "yáo",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 90,
+    "glyph": "爿",
+    "kDefinition": "half of tree trunk; Kangxi radical 90",
+    "kMandarin": "pán",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 91,
+    "glyph": "片",
+    "kDefinition": "slice, splinter, strip; rad. 91",
+    "kMandarin": "piàn",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 92,
+    "glyph": "牙",
+    "kDefinition": "tooth, molars, teeth; serrated",
+    "kMandarin": "yá",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 93,
+    "glyph": "牛",
+    "kDefinition": "cow, ox, bull; Kangxi radical 93; 9th lunar mansion, determinative star β Capricorni (Dabih)",
+    "kMandarin": "niú",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 94,
+    "glyph": "犬",
+    "kDefinition": "dog; radical number 94",
+    "kMandarin": "quǎn",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 95,
+    "glyph": "玄",
+    "kDefinition": "deep, profound, abstruse; Kangxi radical 95",
+    "kMandarin": "xuán",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 96,
+    "glyph": "玉",
+    "kDefinition": "jade, precious stone, gem",
+    "kMandarin": "yù",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 97,
+    "glyph": "瓜",
+    "kDefinition": "melon, gourd, cucumber; Kangxi radical 97",
+    "kMandarin": "guā",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 98,
+    "glyph": "瓦",
+    "kDefinition": "tile; earthenware pottery; girl",
+    "kMandarin": "wǎ",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 99,
+    "glyph": "甘",
+    "kDefinition": "sweetness; sweet, tasty",
+    "kMandarin": "gān",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 100,
+    "glyph": "生",
+    "kDefinition": "life, living, lifetime; birth",
+    "kMandarin": "shēng",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 101,
+    "glyph": "用",
+    "kDefinition": "use, employ, apply, operate; use",
+    "kMandarin": "yòng",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 102,
+    "glyph": "田",
+    "kDefinition": "field, arable land, cultivated",
+    "kMandarin": "tián",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 103,
+    "glyph": "疋",
+    "kDefinition": "roll, bolt of cloth; foot",
+    "kMandarin": "pǐ",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 104,
+    "glyph": "疒",
+    "kDefinition": "sick; Kangxi radical 104",
+    "kMandarin": "nè",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 105,
+    "glyph": "癶",
+    "kDefinition": "legs; Kangxi radical 105",
+    "kMandarin": "bō",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 106,
+    "glyph": "白",
+    "kDefinition": "white; pure, unblemished; bright",
+    "kMandarin": "bái",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 107,
+    "glyph": "皮",
+    "kDefinition": "skin, hide, fur, feather; outer",
+    "kMandarin": "pí",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 108,
+    "glyph": "皿",
+    "kDefinition": "shallow container; rad. no. 108",
+    "kMandarin": "mǐn",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 109,
+    "glyph": "目",
+    "kDefinition": "eye; look, see; division, topic; Kangxi radical 109",
+    "kMandarin": "mù",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 110,
+    "glyph": "矛",
+    "kDefinition": "spear, lance; Kangxi radical 110",
+    "kMandarin": "máo",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 111,
+    "glyph": "矢",
+    "kDefinition": "arrow, dart; vow, swear",
+    "kMandarin": "shǐ",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 112,
+    "glyph": "石",
+    "kDefinition": "stone, rock, mineral; Kangxi radical 112",
+    "kMandarin": "shí",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 113,
+    "glyph": "示",
+    "kDefinition": "show, manifest; demonstrate; Kangxi radical 113",
+    "kMandarin": "shì",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 114,
+    "glyph": "禸",
+    "kDefinition": "rump; Kangxi radical 114",
+    "kMandarin": "róu",
+    "kTotalStrokes": "4"
+  },
+  {
+    "id": 115,
+    "glyph": "禾",
+    "kDefinition": "grain still on stalk; rice plant",
+    "kMandarin": "hé",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 116,
+    "glyph": "穴",
+    "kDefinition": "cave, den, hole; Kangxi radical 116",
+    "kMandarin": "xué",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 117,
+    "glyph": "立",
+    "kDefinition": "stand; let stand; establish, set",
+    "kMandarin": "lì",
+    "kTotalStrokes": "5"
+  },
+  {
+    "id": 118,
+    "glyph": "竹",
+    "kDefinition": "bamboo; flute; Kangxi radical 118",
+    "kMandarin": "zhú",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 119,
+    "glyph": "米",
+    "kDefinition": "hulled or husked uncooked rice",
+    "kMandarin": "mǐ",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 120,
+    "glyph": "糸",
+    "kDefinition": "silk; Kangxi radical 120",
+    "kMandarin": "mì",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 121,
+    "glyph": "缶",
+    "kDefinition": "earthen crock or jar; Kangxi radical 121",
+    "kMandarin": "fǒu",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 122,
+    "glyph": "网",
+    "kDefinition": "net; network; Kangxi radical 122",
+    "kMandarin": "wǎng",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 123,
+    "glyph": "羊",
+    "kDefinition": "sheep, goat; Kangxi radical 123",
+    "kMandarin": "yáng",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 124,
+    "glyph": "羽",
+    "kDefinition": "feather, plume; wings; Kangxi radical 124",
+    "kMandarin": "yǔ",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 125,
+    "glyph": "老",
+    "kDefinition": "old, aged; experienced; Kangxi radical 125",
+    "kMandarin": "lǎo",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 126,
+    "glyph": "而",
+    "kDefinition": "and; and then; and yet; but; Kangxi radical 126",
+    "kMandarin": "ér",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 127,
+    "glyph": "耒",
+    "kDefinition": "handle of plow; plow; Kangxi radical 127",
+    "kMandarin": "lěi",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 128,
+    "glyph": "耳",
+    "kDefinition": "ear; merely, only; handle; Kangxi radical 128",
+    "kMandarin": "ěr",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 129,
+    "glyph": "聿",
+    "kDefinition": "writing brush, pencil; thereupon; Kangxi radical 129",
+    "kMandarin": "yù",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 130,
+    "glyph": "肉",
+    "kDefinition": "flesh; meat; Kangxi radical 130",
+    "kMandarin": "ròu",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 131,
+    "glyph": "臣",
+    "kDefinition": "minister, statesman, official; Kangxi radical 131",
+    "kMandarin": "chén",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 132,
+    "glyph": "自",
+    "kDefinition": "self, private, personal; from; Kangxi radical 132",
+    "kMandarin": "zì",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 133,
+    "glyph": "至",
+    "kDefinition": "reach, arrive; extremely, very; Kangxi radical 133",
+    "kMandarin": "zhì",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 134,
+    "glyph": "臼",
+    "kDefinition": "mortar; bone joint socket; Kangzi radical 134",
+    "kMandarin": "jiù",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 135,
+    "glyph": "舌",
+    "kDefinition": "tongue; clapper of bell; Kangxi radical 135",
+    "kMandarin": "shé",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 136,
+    "glyph": "舛",
+    "kDefinition": "oppose, deviate, be contrary to; Kangxi radical 136",
+    "kMandarin": "chuǎn",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 137,
+    "glyph": "舟",
+    "kDefinition": "boat, ship; Kangxi radical 137",
+    "kMandarin": "zhōu",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 138,
+    "glyph": "艮",
+    "kDefinition": "Kangxi radical 138; trigram ☶; hexagram ䷳",
+    "kMandarin": "gěn",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 139,
+    "glyph": "色",
+    "kDefinition": "color, tint, hue, shade; form, body; beauty, desire for beauty; Kangxi radical 139",
+    "kMandarin": "sè",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 140,
+    "glyph": "艸",
+    "kDefinition": "grass; Kangxi radical 140",
+    "kMandarin": "cǎo",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 141,
+    "glyph": "虍",
+    "kDefinition": "tiger; Kangxi radical 141",
+    "kMandarin": "hū",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 142,
+    "glyph": "虫",
+    "kDefinition": "insects, worms; Kangxi radical 142",
+    "kMandarin": "chóng",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 143,
+    "glyph": "血",
+    "kDefinition": "blood; Kangxi radical 143",
+    "kMandarin": "xuè",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 144,
+    "glyph": "行",
+    "kDefinition": "go; walk; move, travel; circulate; Kangxi radical 144",
+    "kMandarin": "xíng",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 145,
+    "glyph": "衣",
+    "kDefinition": "clothes, clothing; cover, skin; Kangxi radical 145",
+    "kMandarin": "yī",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 146,
+    "glyph": "襾",
+    "kDefinition": "cover; Kangxi radical 146",
+    "kMandarin": "yà",
+    "kTotalStrokes": "6"
+  },
+  {
+    "id": 147,
+    "glyph": "見",
+    "kDefinition": "see, observe, behold; perceive; Kangxi radical 147",
+    "kMandarin": "jiàn",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 148,
+    "glyph": "角",
+    "kDefinition": "horn; angle, corner; point; Kangxi radical 148; 1st lunar mansion, determinative star Spica",
+    "kMandarin": "jiǎo",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 149,
+    "glyph": "言",
+    "kDefinition": "words, speech; speak, say; Kangxi radical 149",
+    "kMandarin": "yán",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 150,
+    "glyph": "谷",
+    "kDefinition": "valley, gorge, ravine; Kangxi radical 150",
+    "kMandarin": "gǔ",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 151,
+    "glyph": "豆",
+    "kDefinition": "beans, peas; bean-shaped; Kangxi radical 151",
+    "kMandarin": "dòu",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 152,
+    "glyph": "豕",
+    "kDefinition": "a pig, boar; Kangxi radical 152",
+    "kMandarin": "shǐ",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 153,
+    "glyph": "豸",
+    "kDefinition": "legless insect-like animal, worm; Kangxi radical 153",
+    "kMandarin": "zhì",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 154,
+    "glyph": "貝",
+    "kDefinition": "sea shell; money, currency; Kangxi radical 154",
+    "kMandarin": "bèi",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 155,
+    "glyph": "赤",
+    "kDefinition": "red; bare; Kangxi radical 155",
+    "kMandarin": "chì",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 156,
+    "glyph": "走",
+    "kDefinition": "walk, go on foot; run; leave; Kangxi radical 156",
+    "kMandarin": "zǒu",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 157,
+    "glyph": "足",
+    "kDefinition": "foot; attain, satisfy, enough; Kangxi radical 156",
+    "kMandarin": "zú",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 158,
+    "glyph": "身",
+    "kDefinition": "body; trunk, hull; Kangxi radical 158",
+    "kMandarin": "shēn",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 159,
+    "glyph": "車",
+    "kDefinition": "cart, vehicle; carry in a cart; Kangxi radical 159",
+    "kMandarin": "chē",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 160,
+    "glyph": "辛",
+    "kDefinition": "bitter; toilsome, laborious; 8th heavenly stem; Kangxi radical 160",
+    "kMandarin": "xīn",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 161,
+    "glyph": "辰",
+    "kDefinition": "early morning; fifth earthly branch; Kangxi radical 161",
+    "kMandarin": "chén",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 162,
+    "glyph": "辵",
+    "kDefinition": "walk; walking; Kangxi radical 162",
+    "kMandarin": "chuò",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 163,
+    "glyph": "邑",
+    "kDefinition": "area; district; city; state; Kangxi radical 163",
+    "kMandarin": "yì",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 164,
+    "glyph": "酉",
+    "kDefinition": "a wine vessel; tenth earthly branch; Kangxi radical 164",
+    "kMandarin": "yǒu",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 165,
+    "glyph": "釆",
+    "kDefinition": "distinguish; Kangxi radical 165",
+    "kMandarin": "biàn",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 166,
+    "glyph": "里",
+    "kDefinition": "unit of distance; village; lane; Kangxi radical 166",
+    "kMandarin": "lǐ",
+    "kTotalStrokes": "7"
+  },
+  {
+    "id": 167,
+    "glyph": "金",
+    "kDefinition": "gold; metals in general; money; Kangxi radical 167",
+    "kMandarin": "jīn",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 168,
+    "glyph": "長",
+    "kDefinition": "long; length; excel in; leader; Kangxi radical 168",
+    "kMandarin": "zhǎng",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 169,
+    "glyph": "門",
+    "kDefinition": "gate, door, entrance, opening; Kangxi radical 169",
+    "kMandarin": "mén",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 170,
+    "glyph": "阜",
+    "kDefinition": "mound; abundant, ample, numerous; Kangxi radical 170",
+    "kMandarin": "fù",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 171,
+    "glyph": "隶",
+    "kDefinition": "subservient; servant; Kangxi radical 171",
+    "kMandarin": "lì",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 172,
+    "glyph": "隹",
+    "kDefinition": "short-tailed bird; Kangxi radical 172",
+    "kMandarin": "zhuī",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 173,
+    "glyph": "雨",
+    "kDefinition": "rain; rainy; Kangxi radical 173",
+    "kMandarin": "yǔ",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 174,
+    "glyph": "靑",
+    "kDefinition": "blue, green; young; Kangxi radical 174",
+    "kMandarin": "qīng",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 175,
+    "glyph": "非",
+    "kDefinition": "not, negative, non-; oppose; Kangxi radical 175",
+    "kMandarin": "fēi",
+    "kTotalStrokes": "8"
+  },
+  {
+    "id": 176,
+    "glyph": "面",
+    "kDefinition": "face; surface; plane; side, dimension; Kangxi radical 176",
+    "kMandarin": "miàn",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 177,
+    "glyph": "革",
+    "kDefinition": "leather, animal hides; Kangxi radical 177; hexagram ䷰",
+    "kMandarin": "gé",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 178,
+    "glyph": "韋",
+    "kDefinition": "tanned leather; surname; Kangxi radical 178",
+    "kMandarin": "wéi",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 179,
+    "glyph": "韭",
+    "kDefinition": "scallion, leek; Kangxi radical 179",
+    "kMandarin": "jiǔ",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 180,
+    "glyph": "音",
+    "kDefinition": "sound, tone, pitch, pronunciation; Kangxi radical 180",
+    "kMandarin": "yīn",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 181,
+    "glyph": "頁",
+    "kDefinition": "page, sheet, leaf; Kangxi radical 181",
+    "kMandarin": "yè",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 182,
+    "glyph": "風",
+    "kDefinition": "wind; air; manners, atmosphere; Kangxi radical 182",
+    "kMandarin": "fēng",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 183,
+    "glyph": "飛",
+    "kDefinition": "fly; go quickly; dart; high; Kangxi radical 183",
+    "kMandarin": "fēi",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 184,
+    "glyph": "食",
+    "kDefinition": "eat; meal; food; Kangxi radical 184",
+    "kMandarin": "shí",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 185,
+    "glyph": "首",
+    "kDefinition": "head; first; leader, chief; a poem; Kangxi radical 185",
+    "kMandarin": "shǒu",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 186,
+    "glyph": "香",
+    "kDefinition": "fragrant, sweet-smelling; incense; Kangxi radical 186",
+    "kMandarin": "xiāng",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 187,
+    "glyph": "馬",
+    "kDefinition": "horse; surname; Kangxi radical 187",
+    "kMandarin": "mǎ",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 188,
+    "glyph": "骨",
+    "kDefinition": "bone; skeleton; frame, framework; Kangxi radical 188",
+    "kMandarin": "gǔ",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 189,
+    "glyph": "高",
+    "kDefinition": "high, tall; lofty, elevated; Kangxi radical 189",
+    "kMandarin": "gāo",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 190,
+    "glyph": "髟",
+    "kDefinition": "hair; Kangxi radical 190",
+    "kMandarin": "biāo",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 191,
+    "glyph": "鬥",
+    "kDefinition": "struggle, fight, compete, contend; Kangxi radical 191",
+    "kMandarin": "dòu",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 192,
+    "glyph": "鬯",
+    "kDefinition": "sacrificial wine; unhindered; Kangxi radical 192",
+    "kMandarin": "chàng",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 193,
+    "glyph": "鬲",
+    "kDefinition": "type of caldron with three hollow legs; name of a state; Kangxi radical 193",
+    "kMandarin": "gé",
+    "kTotalStrokes": "10"
+  },
+  {
+    "id": 194,
+    "glyph": "鬼",
+    "kDefinition": "ghost; spirit of dead; devil; Kangxi radical 194; 23rd lunar mansion, determinative star θ Cancri",
+    "kMandarin": "guǐ",
+    "kTotalStrokes": "9"
+  },
+  {
+    "id": 195,
+    "glyph": "魚",
+    "kDefinition": "fish; surname; Kangxi radical 195",
+    "kMandarin": "yú",
+    "kTotalStrokes": "11"
+  },
+  {
+    "id": 196,
+    "glyph": "鳥",
+    "kDefinition": "bird; Kangxi radical 196",
+    "kMandarin": "niǎo",
+    "kTotalStrokes": "11"
+  },
+  {
+    "id": 197,
+    "glyph": "鹵",
+    "kDefinition": "saline soil; natural salt, rock salt; Kangxi radical 197",
+    "kMandarin": "lǔ",
+    "kTotalStrokes": "11"
+  },
+  {
+    "id": 198,
+    "glyph": "鹿",
+    "kDefinition": "deer; surname; Kangxi radical 198",
+    "kMandarin": "lù",
+    "kTotalStrokes": "11"
+  },
+  {
+    "id": 199,
+    "glyph": "麥",
+    "kDefinition": "wheat, barley, oats; Kangxi radical 199",
+    "kMandarin": "mài",
+    "kTotalStrokes": "11"
+  },
+  {
+    "id": 200,
+    "glyph": "麻",
+    "kDefinition": "hemp, jute, flax; sesame; Kangxi radical 200",
+    "kMandarin": "má",
+    "kTotalStrokes": "11"
+  },
+  {
+    "id": 201,
+    "glyph": "黃",
+    "kDefinition": "yellow; surname; Kangxi radical 201",
+    "kMandarin": "huáng",
+    "kTotalStrokes": "12"
+  },
+  {
+    "id": 202,
+    "glyph": "黍",
+    "kDefinition": "glutinous millet; Kangxi radical 202",
+    "kMandarin": "shǔ",
+    "kTotalStrokes": "12"
+  },
+  {
+    "id": 203,
+    "glyph": "黑",
+    "kDefinition": "black; dark; evil, sinister; Kangxi radical 203",
+    "kMandarin": "hēi",
+    "kTotalStrokes": "12"
+  },
+  {
+    "id": 204,
+    "glyph": "黹",
+    "kDefinition": "embroidery, needlework; Kangxi radical 204",
+    "kMandarin": "zhǐ",
+    "kTotalStrokes": "12"
+  },
+  {
+    "id": 205,
+    "glyph": "黽",
+    "kDefinition": "to strive; to endeavor; Kangxi radical 205",
+    "kMandarin": "miǎn",
+    "kTotalStrokes": "13"
+  },
+  {
+    "id": 206,
+    "glyph": "鼎",
+    "kDefinition": "large, three-legged bronze caldron; Kangxi radical 206; hexagram ䷱",
+    "kMandarin": "dǐng",
+    "kTotalStrokes": "12"
+  },
+  {
+    "id": 207,
+    "glyph": "鼓",
+    "kDefinition": "drum; beat, top, strike; Kangxi radical 207",
+    "kMandarin": "gǔ",
+    "kTotalStrokes": "13"
+  },
+  {
+    "id": 208,
+    "glyph": "鼠",
+    "kDefinition": "rat, mouse; Kangxi radical 208",
+    "kMandarin": "shǔ",
+    "kTotalStrokes": "13"
+  },
+  {
+    "id": 209,
+    "glyph": "鼻",
+    "kDefinition": "nose; first; Kangxi radical 209",
+    "kMandarin": "bí",
+    "kTotalStrokes": "14"
+  },
+  {
+    "id": 210,
+    "glyph": "齊",
+    "kDefinition": "even, uniform, of equal length; Kangxi radical 210",
+    "kMandarin": "qí",
+    "kTotalStrokes": "14"
+  },
+  {
+    "id": 211,
+    "glyph": "齒",
+    "kDefinition": "teeth; gears, cogs; age; Kangxi radical 211",
+    "kMandarin": "chǐ",
+    "kTotalStrokes": "15"
+  },
+  {
+    "id": 212,
+    "glyph": "龍",
+    "kDefinition": "dragon; Kangxi radical 212",
+    "kMandarin": "lóng",
+    "kTotalStrokes": "16"
+  },
+  {
+    "id": 213,
+    "glyph": "龜",
+    "kDefinition": "turtle or tortoise; cuckold; Kangxi radical 213",
+    "kMandarin": "guī",
+    "kTotalStrokes": "17"
+  },
+  {
+    "id": 214,
+    "glyph": "龠",
+    "kDefinition": "flute; pipe, ancient measure; Kangxi radical 214",
+    "kMandarin": "yuè",
+    "kTotalStrokes": "17"
+  }
+]
