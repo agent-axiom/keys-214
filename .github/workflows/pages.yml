@@ -3,23 +3,20 @@ name: Publish GitHub Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  check:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
       - name: Generate study cards
@@ -28,6 +25,30 @@ jobs:
         run: |
           node --check dist/app.js
           node --check dist/data.js
+          node --check dist/progress.js
+      - name: Test progress and review schedule
+        run: node --test tests/*.test.mjs
+        env:
+          TZ: Europe/Moscow
+      - name: Test calendar boundaries in a DST timezone
+        run: node --test tests/*.test.mjs
+        env:
+          TZ: Europe/Berlin
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Generate study cards
+        run: python3 build-data.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
